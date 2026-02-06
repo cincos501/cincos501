@@ -53,5 +53,6 @@
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: *agrega tu link aquí*
-- 📧 Email: *tu correo profesional*
+- 💼 LinkedIn: *https://www.linkedin.com/in/rodrigo-flores-53a04b387/*
+- 📧 Email: *floresrodrigo905@gmail.com
+*
