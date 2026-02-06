@@ -48,19 +48,6 @@
 
 ---
 
-## 📂 Proyectos destacados
-
-- 📌 **Aplicación de hábitos saludables (React Native)**  
-  App móvil con navegación por tabs y enfoque en experiencia de usuario.
-
-- 📌 **Aplicación de recetas**  
-  Uso de Drawer Navigation y diseño visual organizado.
-
-- 📌 **Módulo de reportes**  
-  Frontend en React integrado con backend en Laravel.
-
----
-
 ## 📫 Contacto
 
 - 💼 LinkedIn: https://www.linkedin.com/in/rodrigo-flores-53a04b387/
